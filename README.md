@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ranveer
 - 👀 I’m interested in app development and AI
-- 🌱 I’m currently learning developing in python,CSS,GUI and Rstudio
 - 💞️ I’m looking to collaborate on projects in AI development
 - 📫 How to reach me Email:rickysingh11103@gmail.com
 - 😄 Pronouns: He/him
